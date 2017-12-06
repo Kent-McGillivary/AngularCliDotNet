@@ -8,6 +8,7 @@
 /wwwroot
 /obj
 /bin/debug
+/e2e
 
 # dependencies
 /node_modules
@@ -44,3 +45,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+bin/Debug/netcoreapp2.0/angularclinetcore.dll
+bin/Debug/netcoreapp2.0/angularclinetcore.pdb
+obj/Debug/netcoreapp2.0/angularclinetcore.dll
+obj/Debug/netcoreapp2.0/angularclinetcore.pdb
+bin/Debug/netcoreapp2.0/angularclinetcore.dll
